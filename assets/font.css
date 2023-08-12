@@ -1,0 +1,22 @@
+@font-face {
+  font-family: "Matter-Regular";
+  src: url(~/assets/font/Matter-Regular.woff) format("woff");
+}
+
+@font-face {
+  font-family: "Matter-Bold";
+  src: url(~/assets/font/Matter-Bold.woff) format("woff");
+}
+
+html {
+  font-family: "Matter-Regular";
+}
+
+h1 {
+  font-size: 64px;
+  color: #ddff51;
+}
+
+.bold {
+  font-family: "Matter-Bold";
+}
